@@ -16,4 +16,3 @@ class Quiz extends Component{
 }
 
 export default Quiz
-//added comment lines to work!
